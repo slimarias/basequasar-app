@@ -32,6 +32,7 @@
     "ckeditor4": "^4.15.0",
     "ckeditor4-vue": "^1.1.0",
     "dotenv": "^6.0.0",
+    "leaflet": "^1.7.1",
     "localforage": "^1.7.2",
     "lodash.clonedeep": "~4.5.0",
     "quasar": "^1.13.2",
@@ -43,12 +44,15 @@
     "vue-routisan": "^2.1.2",
     "vue-signature-pad": "^2.0.2",
     "vue-template-compiler": "^2.6.12",
+    "vue2-google-maps": "^0.10.7",
+    "vue2-leaflet": "^2.6.0",
     "vuedraggable": "^2.23.2",
     "vuejs-vr": "^1.1.0",
     "vuelidate": "^0.7.4"
   },
   "devDependencies": {
-    "@quasar/app": "^1.9.6"
+    "@quasar/app": "^1.9.6",
+    "quasar-app-extension-geolocation": "^0.1.0"
   },
   "engines": {
     "node": ">= 8.9.0",
