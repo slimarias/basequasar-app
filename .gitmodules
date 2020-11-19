@@ -1,6 +1,3 @@
-[submodule "node_modules/@imagina/qbanner"]
-	path = node_modules/@imagina/qbanner
-	url = https://github.com/slimarias/qbanner.git
 [submodule "node_modules/@imagina/qblog"]
 	path = node_modules/@imagina/qblog
 	url = https://github.com/slimarias/qblog.git
@@ -47,5 +44,5 @@
 	path = node_modules/@imagina/qhelper
 	url = https://github.com/slimarias/qhelper.git
 [submodule "qbanner"]
-	path = qbanner
+	path = node_modules/@imagina/qbanner
 	url = https://github.com/slimarias/qbanner.git
