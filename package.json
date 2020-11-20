@@ -11,6 +11,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
+    "@imagina/qbanner": "^1.1.0",
     "@imagina/qblog": "^2.1.0",
     "@imagina/qcommerce": "^2.1.0",
     "@imagina/qcrud": "^2.2.0",
@@ -26,13 +27,15 @@
     "@imagina/qsite": "^2.1.0",
     "@imagina/qslider": "^2.1.0",
     "@imagina/quser": "^2.1.0",
-    "@imagina/qbanner": "^1.1.0",
     "@quasar/extras": "^1.9.5",
     "@riophae/vue-treeselect": "0.0.38",
     "axios": "^0.18.1",
     "ckeditor4": "^4.15.0",
     "ckeditor4-vue": "^1.1.0",
     "dotenv": "^6.0.0",
+    "install": "^0.13.0",
+    "leaflet": "^1.7.1",
+    "leaflet-geosearch": "^3.1.0",
     "localforage": "^1.7.2",
     "lodash.clonedeep": "~4.5.0",
     "quasar": "^1.13.2",
@@ -42,12 +45,14 @@
     "vue-qr": "^2.3.0",
     "vue-qrcode-reader": "^2.3.13",
     "vue-routisan": "^2.1.2",
+    "vue-signature-pad": "^2.0.2",
+    "vue-template-compiler": "^2.6.12",
+    "vue2-google-maps": "^0.10.7",
+    "vue2-leaflet": "^2.6.0",
+    "vue2-leaflet-geosearch": "^1.0.6",
     "vuedraggable": "^2.23.2",
     "vuejs-vr": "^1.1.0",
-    "vuelidate": "^0.7.4",
-    "install" : "^0.13.0",
-    "leaflet" : "^1.7.1",
-    "vue2-leaflet": "^2.6.0"
+    "vuelidate": "^0.7.4"
   },
   "devDependencies": {
     "@quasar/app": "^1.9.6",
