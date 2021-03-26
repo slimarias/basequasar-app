@@ -2,9 +2,9 @@ import coreApp from '@imagina/qsite/_config/master/app'
 
 export default {
   ...coreApp,
-  //version : '2.2.12', //To before laravel 8
-  version : '2.3.4', //To laravel 8
-  //isBackend : false, //Define if project is to admin
+  version : '2.3.9', //Version
+  baseUrl: 'https://sexy-latinas.imaginacolombia.com',//Define base url
+  //mode: 'iadmin', //Define load mode
   //forceRoleAndDepartment : false,//Force to select role and department
   //UI Languages
   /*languages : {
