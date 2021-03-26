@@ -1,4 +1,4 @@
-import coreApp from '@imagina/qsite/_config/master/app'
+import coreApp from '@imagina/qsite/_config/master/application/app'
 
 export default {
   ...coreApp,
